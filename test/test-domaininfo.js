@@ -29,7 +29,7 @@ describe('Get domain info', function() {
         });
 
 
-        it.only('multiple domains', function(done) {
+        it('multiple domains', function(done) {
 
             let options = {
 
