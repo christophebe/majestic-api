@@ -35,7 +35,6 @@ describe('Get backlinks', function() {
         });
 
         it('With options', function(done) {
-            this.timeout(60000);
             let options = {
 
                 apiKey : process.env.MAJESTIC_API_KEY,
