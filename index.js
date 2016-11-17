@@ -10,8 +10,7 @@ const CMD_GET_INFO = "GetIndexItemInfo";
 const CMD_GET_BACKLINKS = "GetBackLinkData";
 
 /**
- *  Get information on a domain
- *
+ *  Get information on one or more domains
  *
  * @param options : an object with the following attributes
  *  - apiKey : the majestic api key
